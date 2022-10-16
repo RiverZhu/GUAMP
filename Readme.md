@@ -8,6 +8,4 @@ Here are some suggestions about how to run the GUAMP code.
 (1)classification
 (2)phase
 (3)main
-
-Either,you could also download the programm named "demoGUAMP_all.zip" and perform step 3 directly.
 If you have any problems, please feel free to contact meng@g.ecc.u-tokyo.ac.jp.
