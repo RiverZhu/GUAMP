@@ -14,3 +14,20 @@ Here are some suggestions about how to run the GUAMP code.
 (2)phase
 
 (3)main
+
+
+
+If you find this of interest and use it, please cite as follows: 
+
+@article{zhu2022unitary,
+
+  title={A Unitary Transform Based Generalized Approximate Message Passing},
+  
+  author={Zhu, Jiang and Meng, Xiangming and Lei, Xupeng and Guo, Qinghua},
+  
+  journal={arXiv preprint arXiv:2210.08861},
+  
+  year={2022}
+  
+}
+
